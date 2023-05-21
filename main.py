@@ -1,5 +1,7 @@
 # current issue with autoscraper not working correctly in loop
+# also dynamic content on the website is causing results to be incomplete
 # chromedriver must be in root dir
+
 
 from autoscraper import AutoScraper
 
