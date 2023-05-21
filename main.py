@@ -1,5 +1,5 @@
 # current issue with autoscraper not working correctly in loop
-
+# chromedriver must be in root dir
 
 from autoscraper import AutoScraper
 
