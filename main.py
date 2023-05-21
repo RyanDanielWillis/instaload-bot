@@ -1,3 +1,6 @@
+# current issue with autoscraper not working correctly in loop
+
+
 from autoscraper import AutoScraper
 
 import csv
